@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,debounce",
+    "logging_enabled": "false",
+    "name": "debounceSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "debounceSmokeTest.js"
+}
